@@ -2,7 +2,7 @@
 
 Ini adalah sebuah program API Automation Testing yang dibuat untuk GoREST dengan menguji berdasarkan CRUD.
 
-## Dokumentasi
+## Documentation
 Untuk melihat dokumentasi dari manual testing yang sudah dibuat, silahkan klik di sini :
 https://docs.google.com/spreadsheets/d/1bc94We7ic8D6k1EtNqyNd9SQlsHv5JmweCTHarWi3HA/edit#gid=0
 
